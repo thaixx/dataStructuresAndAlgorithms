@@ -1,19 +1,3 @@
-# 👋 Hi, I'm Thais Machado
-
-🎯 QA Analyst | Aspiring Back-End Developer  
-🧪 Passionate about testing, automation, and clean code  
-🌎 Fluent in English | 🇧🇷 Based in Brazil | Open to remote roles  
-
-## 🚀 Tech Stack
-- QA: Cypress | Robot Framework | Postman | K6 | Qase
-- Dev: JavaScript | Python | REST APIs
-- Tools: Git | VS Code | Jira | SQL
-
-## 📫 How to reach me
-- 📧 machado.thais.06@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thais-machado-qa/)
-
----
 
 ```markdown
 # 📚 Data Structures and Algorithms
@@ -44,5 +28,10 @@ This repository contains my personal study notes and code exercises on data stru
 ## 💡 Purpose
 
 This is a learning repository — feel free to explore, use and improve the examples!
+
+## 📫 Author
+
+By [Thais Machado](https://www.linkedin.com/in/thais-machado-qa/)  
+QA Analyst | Junior Developer in training 🔍💻
 
 
